@@ -1,4 +1,4 @@
-daysOfWeekToNumber = {
+let daysOfWeekToNumber = {
     Sunday: 1,
     Monday: 2,
     Tuesday: 3,
