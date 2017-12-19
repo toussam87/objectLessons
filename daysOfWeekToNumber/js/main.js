@@ -5,7 +5,7 @@ daysOfWeekToNumber = {
     Wednesday: 4,
     Thursday: 5,
     Friday: 6,
-    Satuday: 7
+    Satuday: 7 
 }
 
 console.log(daysOfWeekToNumber);

@@ -1,0 +1,5 @@
+foodCalories = {
+    
+}
+
+console.log(foodCalories);
